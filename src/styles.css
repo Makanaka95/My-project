@@ -3,17 +3,13 @@ body {
   width: 500px;
   margin: auto;
   padding: 40px;
-  border: 3px solid rgb(240, 94, 37);
+  border: 3px solid rgb(249, 247, 246);
   border-radius: 16px;
   justify-content: center;
   align-items: center;
   margin-top: 80px;
-  background: linear-gradient(
-    109.6deg,
-    rgb(255, 207, 84) 11.2%,
-    rgb(255, 158, 27) 91.1%
-  );
-  background-repeat: repeat;
+  background-image: url(https://www.robertscheinfeld.com/wp-content/uploads/2012/03/sun-clouds1.jpg);
+  background-size: cover;
 }
 
 h1 {
@@ -21,11 +17,11 @@ h1 {
 }
 
 strong {
-  color: azure;
+  color: rgb(250, 118, 10);
 }
 
 a {
-  color: white;
+  color: rgb(250, 118, 10);
 }
 
 #text-area {
